@@ -1,0 +1,10 @@
+{
+  "model": "gpt2",
+  "total_modifications": 50,
+  "attn_scale": 1.5,
+  "layer_scale": 0.85,
+  "token_agreement_pct": 68.68,
+  "avg_deviation": 0.0289,
+  "max_deviation": 0.0573,
+  "status": "ACCEPTABLE"
+}
