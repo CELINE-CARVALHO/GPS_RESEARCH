@@ -1,0 +1,31 @@
+{
+  "model": "pythia-1.4b",
+  "injection_step": 3,
+  "stagnation_detected": [],
+  "clean_l2": [
+    NaN,
+    NaN,
+    NaN,
+    NaN,
+    NaN
+  ],
+  "adv_l2": [
+    NaN,
+    NaN,
+    NaN,
+    NaN,
+    NaN
+  ],
+  "clean_deltas": [
+    NaN,
+    NaN,
+    NaN,
+    NaN
+  ],
+  "adv_deltas": [
+    NaN,
+    NaN,
+    NaN,
+    NaN
+  ]
+}

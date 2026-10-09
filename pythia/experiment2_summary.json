@@ -1,0 +1,28 @@
+{
+  "model": "pythia-1.4b",
+  "attn_scale": 1.5,
+  "layer_scale": 0.9,
+  "token_agreement_pct": 94.9,
+  "avg_deviation": NaN,
+  "max_deviation": NaN,
+  "tuning_results": [
+    {
+      "layer_scale": 0.9,
+      "agreement": 94.9,
+      "avg_dev": NaN,
+      "max_dev": NaN
+    },
+    {
+      "layer_scale": 0.85,
+      "agreement": 90.28,
+      "avg_dev": NaN,
+      "max_dev": NaN
+    },
+    {
+      "layer_scale": 0.8,
+      "agreement": 89.17,
+      "avg_dev": NaN,
+      "max_dev": NaN
+    }
+  ]
+}
